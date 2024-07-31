@@ -2,7 +2,7 @@
 Develop a simple application that fetches stock prices from a mock API every minute and displays them. Users can select which stocks they want to view from a predefined list.
 
 
-# fetch and checkout **development** Branch
+Fetch and checkout **development** Branch
 
 
 # Frontend
