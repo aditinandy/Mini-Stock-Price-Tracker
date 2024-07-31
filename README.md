@@ -7,12 +7,17 @@ Fetch and checkout **development** Branch
 
 # Frontend
 cd frontend
+
 npm install -> To install all packages
+
 npm start -> To start run the UI
 
 
 # Backend
 cd backend
+
 npm install -> To install all packages
+
 npm i -g nodemon
+
 npx nodemon -> To start run the backend
